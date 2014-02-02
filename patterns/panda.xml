@@ -1,0 +1,1944 @@
+<?xml version="1.0" ?>
+<origami>
+  <patterns>
+    <pattern>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x=" 100.00000" y="   0.00000" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y=" 100.00000" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x="-100.00000" y="   0.00000" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="-100.00000" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x=" 100.00000" y="   0.00000" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y=" 100.00000" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="-100.00000" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x="  31.79867" y="  -0.68384" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x=" 100.00000" y="   0.00000" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y=" 100.00000" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="-100.00000" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -44.23237" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -44.23237" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y=" 100.00000" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="-100.00000" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -65.38999" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -44.23237" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -44.23237" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -31.45675" y="  -0.68384" z="   0.00000"/>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -65.38999" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y=" 100.00000" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="-100.00000" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -65.38999" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -44.23237" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -44.23237" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.33986" y="  45.05473" z="   0.00000"/>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -65.38999" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -44.22288" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  57.78467" y="  -1.02576" z="   0.00000"/>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.33986" y="  45.05473" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -44.22288" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="  12.30916" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y=" 100.00000" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.33986" y="  45.05473" z="   0.00000"/>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  57.78467" y="  -1.02576" z="   0.00000"/>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.33986" y="  45.05473" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.78829" y="  20.38588" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.78829" y="  20.38588" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="  -0.34192" y=" -13.33493" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="  12.30916" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  57.78467" y="  -1.02576" z="   0.00000"/>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="  -0.34192" y="  18.80566" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.78829" y="  20.38588" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.78829" y="  20.38588" z="   0.00000"/>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="  12.30916" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  57.78467" y="  -1.02576" z="   0.00000"/>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y="   0.00000" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.78829" y="  20.38588" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.78829" y="  20.38588" z="   0.00000"/>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="  12.30916" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  57.78467" y="  -1.02576" z="   0.00000"/>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y="   6.83842" z="   0.00000"/>
+        <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.78829" y="  20.38588" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.78829" y="  20.38588" z="   0.00000"/>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="  12.30916" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  57.78467" y="  -1.02576" z="   0.00000"/>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y="   6.83842" z="   0.00000"/>
+        <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.67670" originalY="  41.88480" originalZ="   0.00000" x="  13.67670" y="  41.88480" z="   0.00000"/>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  15.78539" originalY="  38.99059" originalZ="   0.00000" x="  15.78539" y="  38.99059" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="  12.30916" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  50.24155" originalY="  -8.30113" originalZ="   0.00000" x="  50.24155" y="  -8.30113" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  41.00452" y=" -13.25158" z="   0.00000"/>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  11.92292" y="  41.01178" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  50.24155" originalY="  -8.30113" originalZ="   0.00000" x="  50.24155" y="  -8.30113" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="   6.15458" y="  22.90872" z="   0.00000"/>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="   6.15458" y="  22.90872" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  27.97744" y="  16.15217" z="   0.00000"/>
+        <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="   6.15458" y="  22.90872" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.78539" originalY="  38.99059" originalZ="   0.00000" x="  15.78539" y="  38.99059" z="   0.00000"/>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  27.97744" y="  16.15217" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="   6.15458" y="  22.90872" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  11.92292" y="  41.01178" z="   0.00000"/>
+        <vertex originalX="  13.67670" originalY="  41.88480" originalZ="   0.00000" x="  13.67670" y="  41.88480" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y="   6.83842" z="   0.00000"/>
+        <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.67670" originalY="  41.88480" originalZ="   0.00000" x="  13.67670" y="  41.88480" z="   0.00000"/>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  15.78539" originalY="  38.99059" originalZ="   0.00000" x="  15.78539" y="  38.99059" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="  12.30916" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  50.24155" originalY="  -8.30113" originalZ="   0.00000" x="  50.24155" y="  -8.30113" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  41.00452" y=" -13.25158" z="   0.00000"/>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  11.92292" y="  41.01178" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  50.24155" originalY="  -8.30113" originalZ="   0.00000" x="  50.24155" y="  -8.30113" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  27.97744" y="  16.15217" z="   0.00000"/>
+        <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.78539" originalY="  38.99059" originalZ="   0.00000" x="  15.78539" y="  38.99059" z="   0.00000"/>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  27.97744" y="  16.15217" z="   0.00000"/>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  11.92292" y="  41.01178" z="   0.00000"/>
+        <vertex originalX="  13.67670" originalY="  41.88480" originalZ="   0.00000" x="  13.67670" y="  41.88480" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y="   6.83842" z="   0.00000"/>
+        <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.67670" originalY="  41.88480" originalZ="   0.00000" x="  13.67670" y="  41.88480" z="   0.00000"/>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  15.78539" originalY="  38.99059" originalZ="   0.00000" x="  15.78539" y="  38.99059" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -31.60053" originalY="  18.30319" originalZ="   0.00000" x=" -31.60053" y="  18.30319" z="   0.00000"/>
+        <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="  12.30916" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+        <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -52.19870" originalY="  -6.67427" originalZ="   0.00000" x=" -52.19870" y="  -6.67427" z="   0.00000"/>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  50.24155" originalY="  -8.30113" originalZ="   0.00000" x="  50.24155" y="  -8.30113" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  41.00452" y=" -13.25158" z="   0.00000"/>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  11.92292" y="  41.01178" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  50.24155" originalY="  -8.30113" originalZ="   0.00000" x="  50.24155" y="  -8.30113" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  27.97744" y="  16.15217" z="   0.00000"/>
+        <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.78539" originalY="  38.99059" originalZ="   0.00000" x="  15.78539" y="  38.99059" z="   0.00000"/>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  27.97744" y="  16.15217" z="   0.00000"/>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  11.92292" y="  41.01178" z="   0.00000"/>
+        <vertex originalX="  13.67670" originalY="  41.88480" originalZ="   0.00000" x="  13.67670" y="  41.88480" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -10.09273" y="  39.10289" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -45.92553" y=" -11.14756" z="   0.00000"/>
+        <vertex originalX=" -52.19870" originalY="  -6.67427" originalZ="   0.00000" x=" -52.19870" y="  -6.67427" z="   0.00000"/>
+        <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -10.46884" y="  41.01115" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -10.46884" y="  41.01115" z="   0.00000"/>
+        <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+        <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x="  -6.49650" y="  20.85719" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x="  -6.49650" y="  20.85719" z="   0.00000"/>
+        <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+        <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -31.60053" originalY="  18.30319" originalZ="   0.00000" x=" -31.60053" y="  18.30319" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -28.88636" y="  16.49464" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x="  -6.49650" y="  20.85719" z="   0.00000"/>
+        <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -28.88636" y="  16.49464" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -12.46302" y="  40.59599" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -10.46884" y="  41.01115" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x="  -6.49650" y="  20.85719" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -12.46302" y="  40.59599" z="   0.00000"/>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -10.09273" y="  39.10289" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -10.46884" y="  41.01115" z="   0.00000"/>
+      </face>
+    </pattern>
+    <pattern>
+      <face>
+        <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y="   6.83842" z="   0.00000"/>
+        <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+        <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.67670" originalY="  41.88480" originalZ="   0.00000" x="  13.67670" y="  41.88480" z="   0.00000"/>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+        <vertex originalX="  15.78539" originalY="  38.99059" originalZ="   0.00000" x="  15.78539" y="  38.99059" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+        <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+        <vertex originalX=" -31.60053" originalY="  18.30319" originalZ="   0.00000" x=" -31.60053" y="  18.30319" z="   0.00000"/>
+        <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -43.46796" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -43.45846" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -22.12990" z="   0.00000"/>
+        <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="  12.30916" z="   0.00000"/>
+        <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -22.30085" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+        <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -52.19870" originalY="  -6.67427" originalZ="   0.00000" x=" -52.19870" y="  -6.67427" z="   0.00000"/>
+        <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+        <vertex originalX="  50.24155" originalY="  -8.30113" originalZ="   0.00000" x="  50.24155" y="  -8.30113" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  41.00452" y=" -13.25158" z="   0.00000"/>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  11.92292" y="  41.01178" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  50.24155" originalY="  -8.30113" originalZ="   0.00000" x="  50.24155" y="  -8.30113" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  27.97744" y="  16.15217" z="   0.00000"/>
+        <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+        <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.78539" originalY="  38.99059" originalZ="   0.00000" x="  15.78539" y="  38.99059" z="   0.00000"/>
+        <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  27.97744" y="  16.15217" z="   0.00000"/>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  11.92292" y="  41.01178" z="   0.00000"/>
+        <vertex originalX="  13.67670" originalY="  41.88480" originalZ="   0.00000" x="  13.67670" y="  41.88480" z="   0.00000"/>
+        <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+        <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  28.37946" y="  38.63709" z="   0.00000"/>
+        <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+        <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -10.09273" y="  39.10289" z="   0.00000"/>
+        <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -45.92553" y=" -11.14756" z="   0.00000"/>
+        <vertex originalX=" -52.19870" originalY="  -6.67427" originalZ="   0.00000" x=" -52.19870" y="  -6.67427" z="   0.00000"/>
+        <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -10.46884" y="  41.01115" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -10.46884" y="  41.01115" z="   0.00000"/>
+        <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+        <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+        <vertex originalX=" -27.76464" originalY="  16.61724" originalZ="   0.00000" x=" -27.76464" y="  16.61724" z="   0.00000"/>
+        <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -27.76464" originalY="  16.61724" originalZ="   0.00000" x=" -27.76464" y="  16.61724" z="   0.00000"/>
+        <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+        <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+        <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -31.60053" originalY="  18.30319" originalZ="   0.00000" x=" -31.60053" y="  18.30319" z="   0.00000"/>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -28.88636" y="  16.49464" z="   0.00000"/>
+        <vertex originalX=" -27.67411" originalY="  16.73084" originalZ="   0.00000" x=" -27.67411" y="  16.73084" z="   0.00000"/>
+        <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+        <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -28.88636" y="  16.49464" z="   0.00000"/>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -12.46302" y="  40.59599" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -10.46884" y="  41.01115" z="   0.00000"/>
+        <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+        <vertex originalX=" -27.67411" originalY="  16.73084" originalZ="   0.00000" x=" -27.67411" y="  16.73084" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -12.46302" y="  40.59599" z="   0.00000"/>
+        <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -10.09273" y="  39.10289" z="   0.00000"/>
+        <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -10.46884" y="  41.01115" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -28.37946" y="  38.29517" z="   0.00000"/>
+        <vertex originalX=" -27.67411" originalY="  16.73084" originalZ="   0.00000" x=" -27.67411" y="  16.73084" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -27.67411" originalY="  16.73084" originalZ="   0.00000" x=" -27.67411" y="  16.73084" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -28.37946" y="  38.29517" z="   0.00000"/>
+        <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -28.37946" y="  38.29517" z="   0.00000"/>
+        <vertex originalX=" -27.76464" originalY="  16.61724" originalZ="   0.00000" x=" -27.76464" y="  16.61724" z="   0.00000"/>
+        <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+      </face>
+      <face>
+        <vertex originalX=" -27.76464" originalY="  16.61724" originalZ="   0.00000" x=" -27.76464" y="  16.61724" z="   0.00000"/>
+        <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -28.37946" y="  38.29517" z="   0.00000"/>
+        <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+      </face>
+    </pattern>
+  </patterns>
+  <steps>
+    <step>
+      <faceIndices>
+        <index>0</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+          <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x="-100.00000" y="   0.00000" z="   0.00000"/>
+          <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x=" 100.00000" y="   0.00000" z="   0.00000"/>
+          <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y=" 100.00000" z="   0.00000"/>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+          <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+          <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="-100.00000" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x=" -34.10067" y="  -0.34192" z="   0.00000"/>
+        <axis x="  -0.68384" y="-131.79867" z="   0.00000"/>
+      </edge>
+      <direction>0</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>1</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+          <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x="  31.79867" y="  -0.68384" z="   0.00000"/>
+          <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -44.23237" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+          <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+          <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -44.23237" z="   0.00000"/>
+          <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x=" -12.99300" y="  -1.02576" z="   0.00000"/>
+        <axis x="  -0.68384" y="  89.58334" z="   0.00000"/>
+      </edge>
+      <direction>0</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>0</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x=" 100.00000" y="   0.00000" z="   0.00000"/>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+          <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -65.38999" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+          <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y=" 100.00000" z="   0.00000"/>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+          <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+          <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="-100.00000" z="   0.00000"/>
+          <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -65.38999" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x="  34.27163" y="  -0.34192" z="   0.00000"/>
+        <axis x="  -0.68384" y=" 131.45675" z="   0.00000"/>
+      </edge>
+      <direction>0</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>3</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -31.45675" y="  -0.68384" z="   0.00000"/>
+          <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.33986" y="  45.05473" z="   0.00000"/>
+          <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -44.22288" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.33986" y="  45.05473" z="   0.00000"/>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+          <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -65.38999" z="   0.00000"/>
+          <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -44.22288" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x="  13.16396" y="  -0.85480" z="   0.00000"/>
+        <axis x="  -0.34192" y=" -89.24142" z="   0.00000"/>
+      </edge>
+      <direction>0</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>0</index>
+        <index>1</index>
+        <index>2</index>
+        <index>3</index>
+        <index>4</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+          <vertex originalX="   0.00000" originalY="-100.00000" originalZ="   0.00000" x="   0.00000" y="-100.00000" z="   0.00000"/>
+          <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -65.38999" z="   0.00000"/>
+          <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -44.23237" z="   0.00000"/>
+          <vertex originalX=" -34.43906" originalY=" -65.56094" originalZ="   0.00000" x=" -34.43906" y=" -65.56094" z="   0.00000"/>
+          <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -12.66318" originalY=" -44.23237" originalZ="   0.00000" x=" -12.66318" y=" -44.23237" z="   0.00000"/>
+          <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  34.61001" originalY=" -65.38999" originalZ="   0.00000" x="  34.61001" y=" -65.38999" z="   0.00000"/>
+          <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -44.22288" z="   0.00000"/>
+          <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  12.99780" originalY=" -44.22288" originalZ="   0.00000" x="  12.99780" y=" -44.22288" z="   0.00000"/>
+          <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+          <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y=" 100.00000" z="   0.00000"/>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+          <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+          <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+          <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+          <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+          <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.33986" y="  45.05473" z="   0.00000"/>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+          <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  57.78467" y="  -1.02576" z="   0.00000"/>
+          <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.33986" y="  45.05473" z="   0.00000"/>
+          <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x="   0.00000" y=" -43.84542" z="   0.00000"/>
+        <axis x=" 112.30916" y="   0.00000" z="   0.00000"/>
+      </edge>
+      <direction>1</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>5</index>
+        <index>6</index>
+        <index>7</index>
+        <index>8</index>
+        <index>9</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+          <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y=" 100.00000" z="   0.00000"/>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.75518" y="  66.24482" z="   0.00000"/>
+          <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+          <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.34747" y="  45.40911" z="   0.00000"/>
+          <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+          <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.33986" y="  45.05473" z="   0.00000"/>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.92613" y="  66.07387" z="   0.00000"/>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+          <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+          <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.33986" y="  45.05473" z="   0.00000"/>
+          <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+          <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+          <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+          <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+          <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+          <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  57.78467" y="  -1.02576" z="   0.00000"/>
+          <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+          <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+          <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x="  -0.17096" y="  43.33254" z="   0.00000"/>
+        <axis x="-113.33493" y="   0.34192" z="   0.00000"/>
+      </edge>
+      <direction>1</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>4</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+          <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="  -0.34192" y=" -13.33493" z="   0.00000"/>
+          <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.78829" y="  20.38588" z="   0.00000"/>
+          <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+          <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x="  -0.34192" y="   2.73537" z="   0.00000"/>
+        <axis x="  32.14059" y="  -0.00000" z="   0.00000"/>
+      </edge>
+      <direction>1</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>0</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+          <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="  -0.34192" y="  18.80566" z="   0.00000"/>
+          <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+          <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+          <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+          <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x="  -0.17096" y="   9.40283" z="   0.00000"/>
+        <axis x=" -18.80566" y="  -0.34192" z="   0.00000"/>
+      </edge>
+      <direction>1</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>0</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+          <vertex originalX="   0.00000" originalY=" 100.00000" originalZ="   0.00000" x="   0.00000" y="   0.00000" z="   0.00000"/>
+          <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX="   9.00619" originalY="   9.56969" originalZ="   0.00000" x="   9.00619" y="   9.56969" z="   0.00000"/>
+          <vertex originalX="   3.21787" originalY="   3.41921" originalZ="   0.00000" x="   3.21787" y="   3.41921" z="   0.00000"/>
+          <vertex originalX="  -3.63315" originalY="   3.41921" originalZ="   0.00000" x="  -3.63315" y="   3.41921" z="   0.00000"/>
+          <vertex originalX="  -9.80503" originalY="   9.22767" originalZ="   0.00000" x="  -9.80503" y="   9.22767" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x="   0.00000" y="   3.41921" z="   0.00000"/>
+        <axis x="   6.83842" y="   0.00000" z="   0.00000"/>
+      </edge>
+      <direction>1</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>3</index>
+        <index>4</index>
+        <index>7</index>
+        <index>13</index>
+        <index>16</index>
+        <index>17</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+          <vertex originalX="  13.67670" originalY="  41.88480" originalZ="   0.00000" x="  13.67670" y="  41.88480" z="   0.00000"/>
+          <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+          <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  15.78539" originalY="  38.99059" originalZ="   0.00000" x="  15.78539" y="  38.99059" z="   0.00000"/>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.78829" y="  20.38588" z="   0.00000"/>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+          <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+          <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  33.78829" y="  20.38588" z="   0.00000"/>
+          <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+          <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+          <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="  34.04497" y="  43.22931" z="   0.00000"/>
+          <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+          <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+          <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" 100.00000" originalY="   0.00000" originalZ="   0.00000" x="  57.78467" y="  -1.02576" z="   0.00000"/>
+          <vertex originalX="  15.04520" originalY="  43.28663" originalZ="   0.00000" x="  15.04520" y="  43.28663" z="   0.00000"/>
+          <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  13.33311" y="  43.29180" z="   0.00000"/>
+          <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+          <vertex originalX="  50.24155" originalY="  -8.30113" originalZ="   0.00000" x="  50.24155" y="  -8.30113" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX="  13.67670" originalY="  41.88480" originalZ="   0.00000" x="  13.67670" y="  41.88480" z="   0.00000"/>
+          <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+          <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  13.33986" originalY="  45.05473" originalZ="   0.00000" x="  13.32922" y="  41.52886" z="   0.00000"/>
+          <vertex originalX="  15.78539" originalY="  38.99059" originalZ="   0.00000" x="  15.78539" y="  38.99059" z="   0.00000"/>
+          <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+          <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+          <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+          <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+          <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+          <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+          <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+          <vertex originalX="  12.99925" originalY=" -43.84542" originalZ="   0.00000" x="  12.99925" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  13.38915" originalY=" -43.84542" originalZ="   0.00000" x="  13.38915" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  50.24155" originalY="  -8.30113" originalZ="   0.00000" x="  50.24155" y="  -8.30113" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x="  20.09977" y="  33.06902" z="   0.00000"/>
+        <axis x=" -20.32059" y="  27.89039" z="   0.00000"/>
+      </edge>
+      <direction>0</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>19</index>
+        <index>20</index>
+        <index>21</index>
+        <index>22</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="   6.15458" y="  22.90872" z="   0.00000"/>
+          <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+          <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="   6.15458" y="  22.90872" z="   0.00000"/>
+          <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="   6.15458" y="  22.90872" z="   0.00000"/>
+          <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+          <vertex originalX="  34.04497" originalY="  43.22931" originalZ="   0.00000" x="   6.15458" y="  22.90872" z="   0.00000"/>
+          <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+          <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+          <vertex originalX="  13.32954" originalY="  42.36129" originalZ="   0.00000" x="  13.32954" y="  42.36129" z="   0.00000"/>
+          <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+          <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+          <vertex originalX="  27.86835" originalY="  15.79277" originalZ="   0.00000" x="  27.86835" y="  15.79277" z="   0.00000"/>
+          <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+          <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  27.97744" y="  16.15217" z="   0.00000"/>
+          <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+          <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+          <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+          <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX="  15.78539" originalY="  38.99059" originalZ="   0.00000" x="  15.78539" y="  38.99059" z="   0.00000"/>
+          <vertex originalX="  33.92613" originalY="  66.07387" originalZ="   0.00000" x="  27.97744" y="  16.15217" z="   0.00000"/>
+          <vertex originalX="  27.51203" originalY="  16.29626" originalZ="   0.00000" x="  27.51203" y="  16.29626" z="   0.00000"/>
+          <vertex originalX="  11.33246" originalY="  39.15870" originalZ="   0.00000" x="  11.33246" y="  39.15870" z="   0.00000"/>
+          <vertex originalX="  13.33311" originalY="  43.29180" originalZ="   0.00000" x="  12.44271" y="  42.64307" z="   0.00000"/>
+          <vertex originalX="  13.33105" originalY="  42.35921" originalZ="   0.00000" x="  13.33105" y="  42.35921" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x="  17.26702" y="  30.77291" z="   0.00000"/>
+        <axis x="  15.72837" y=" -22.22487" z="   0.00000"/>
+      </edge>
+      <direction>0</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>5</index>
+        <index>6</index>
+        <index>7</index>
+        <index>13</index>
+        <index>14</index>
+        <index>15</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+          <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+          <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+          <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -13.35976" y="  41.33550" z="   0.00000"/>
+          <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -31.60053" originalY="  18.30319" originalZ="   0.00000" x=" -31.60053" y="  18.30319" z="   0.00000"/>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -33.89281" y="  20.62331" z="   0.00000"/>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+          <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+          <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+          <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+          <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+          <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x=" -33.87353" y="  43.43421" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -15.27688" originalY="  43.37811" originalZ="   0.00000" x=" -15.27688" y="  43.37811" z="   0.00000"/>
+          <vertex originalX="-100.00000" originalY="   0.00000" originalZ="   0.00000" x=" -57.78467" y="  -1.36768" z="   0.00000"/>
+          <vertex originalX=" -52.19870" originalY="  -6.67427" originalZ="   0.00000" x=" -52.19870" y="  -6.67427" z="   0.00000"/>
+          <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+          <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -13.33192" y="  43.37224" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <None/>
+        <None/>
+        <face>
+          <vertex originalX="  31.20217" originalY="  17.83078" originalZ="   0.00000" x="  31.20217" y="  17.83078" z="   0.00000"/>
+          <vertex originalX="  15.92348" originalY="   2.73537" originalZ="   0.00000" x="  15.92348" y="   2.73537" z="   0.00000"/>
+          <vertex originalX=" -16.21945" originalY="   2.73537" originalZ="   0.00000" x=" -16.21945" y="   2.73537" z="   0.00000"/>
+          <vertex originalX=" -31.60053" originalY="  18.30319" originalZ="   0.00000" x=" -31.60053" y="  18.30319" z="   0.00000"/>
+          <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+          <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+          <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  34.49793" originalY=" -43.84542" originalZ="   0.00000" x="  34.49793" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX="  34.19849" originalY="  13.71828" originalZ="   0.00000" x="  34.19849" y="  13.71828" z="   0.00000"/>
+          <vertex originalX="  12.65008" originalY="  43.29386" originalZ="   0.00000" x="  12.65008" y="  43.29386" z="   0.00000"/>
+          <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+          <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -34.32639" originalY=" -43.84542" originalZ="   0.00000" x=" -34.32639" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -52.19870" originalY="  -6.67427" originalZ="   0.00000" x=" -52.19870" y="  -6.67427" z="   0.00000"/>
+          <vertex originalX=" -13.07051" originalY=" -43.84542" originalZ="   0.00000" x=" -13.07051" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -12.66613" originalY=" -43.84542" originalZ="   0.00000" x=" -12.66613" y=" -43.84542" z="   0.00000"/>
+          <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x=" -20.18502" y="  32.14570" z="   0.00000"/>
+        <axis x=" -22.57703" y=" -27.37703" z="   0.00000"/>
+      </edge>
+      <direction>0</direction>
+    </step>
+    <step>
+      <faceIndices>
+        <index>27</index>
+        <index>28</index>
+        <index>29</index>
+        <index>30</index>
+      </faceIndices>
+      <movingFaces>
+        <face>
+          <vertex originalX=" -27.76464" originalY="  16.61724" originalZ="   0.00000" x=" -27.76464" y="  16.61724" z="   0.00000"/>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x="  -6.49650" y="  20.85719" z="   0.00000"/>
+          <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x="  -6.49650" y="  20.85719" z="   0.00000"/>
+          <vertex originalX=" -27.76464" originalY="  16.61724" originalZ="   0.00000" x=" -27.76464" y="  16.61724" z="   0.00000"/>
+          <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -27.67411" originalY="  16.73084" originalZ="   0.00000" x=" -27.67411" y="  16.73084" z="   0.00000"/>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x="  -6.49650" y="  20.85719" z="   0.00000"/>
+          <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+          <vertex originalX=" -33.87353" originalY="  43.43421" originalZ="   0.00000" x="  -6.49650" y="  20.85719" z="   0.00000"/>
+          <vertex originalX=" -27.67411" originalY="  16.73084" originalZ="   0.00000" x=" -27.67411" y="  16.73084" z="   0.00000"/>
+        </face>
+      </movingFaces>
+      <stayingFaces>
+        <face>
+          <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -10.46884" y="  41.01115" z="   0.00000"/>
+          <vertex originalX=" -13.30986" originalY="  40.48256" originalZ="   0.00000" x=" -13.30986" y="  40.48256" z="   0.00000"/>
+          <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+          <vertex originalX=" -27.76464" originalY="  16.61724" originalZ="   0.00000" x=" -27.76464" y="  16.61724" z="   0.00000"/>
+          <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -27.76464" originalY="  16.61724" originalZ="   0.00000" x=" -27.76464" y="  16.61724" z="   0.00000"/>
+          <vertex originalX=" -34.01914" originalY="  15.37036" originalZ="   0.00000" x=" -34.01914" y="  15.37036" z="   0.00000"/>
+          <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+          <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -31.60053" originalY="  18.30319" originalZ="   0.00000" x=" -31.60053" y="  18.30319" z="   0.00000"/>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -28.88636" y="  16.49464" z="   0.00000"/>
+          <vertex originalX=" -27.67411" originalY="  16.73084" originalZ="   0.00000" x=" -27.67411" y="  16.73084" z="   0.00000"/>
+          <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+          <vertex originalX=" -10.93279" originalY="  43.36500" originalZ="   0.00000" x=" -10.93279" y="  43.36500" z="   0.00000"/>
+        </face>
+        <face>
+          <vertex originalX=" -33.75518" originalY="  66.24482" originalZ="   0.00000" x=" -28.88636" y="  16.49464" z="   0.00000"/>
+          <vertex originalX=" -13.34747" originalY="  45.40911" originalZ="   0.00000" x=" -12.46302" y="  40.59599" z="   0.00000"/>
+          <vertex originalX=" -13.33192" originalY="  43.37224" originalZ="   0.00000" x=" -10.46884" y="  41.01115" z="   0.00000"/>
+          <vertex originalX=" -10.04388" originalY="  38.85505" originalZ="   0.00000" x=" -10.04388" y="  38.85505" z="   0.00000"/>
+          <vertex originalX=" -27.67411" originalY="  16.73084" originalZ="   0.00000" x=" -27.67411" y="  16.73084" z="   0.00000"/>
+        </face>
+      </stayingFaces>
+      <edge>
+        <point x=" -17.43798" y="  29.57618" z="   0.00000"/>
+        <axis x="  17.43799" y="  21.88296" z="   0.00000"/>
+      </edge>
+      <direction>0</direction>
+    </step>
+  </steps>
+</origami>

@@ -1,4 +1,4 @@
 origami
 =======
 
-VPython Origami Simulator
+A VPython Origami Simulator
